@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rader\\ProjektBuchladen\\Logistik\\Logistik.csproj": {}
+    "C:\\Users\\ruben\\ProjektBuchladen\\Logistik\\Logistik.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rader\\ProjektBuchladen\\Logistik\\Logistik.csproj": {
+    "C:\\Users\\ruben\\ProjektBuchladen\\Logistik\\Logistik.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rader\\ProjektBuchladen\\Logistik\\Logistik.csproj",
+        "projectUniqueName": "C:\\Users\\ruben\\ProjektBuchladen\\Logistik\\Logistik.csproj",
         "projectName": "Logistik",
-        "projectPath": "C:\\Users\\rader\\ProjektBuchladen\\Logistik\\Logistik.csproj",
-        "packagesPath": "C:\\Users\\rader\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rader\\ProjektBuchladen\\Logistik\\obj\\",
+        "projectPath": "C:\\Users\\ruben\\ProjektBuchladen\\Logistik\\Logistik.csproj",
+        "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ruben\\ProjektBuchladen\\Logistik\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\rader\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
