@@ -5,7 +5,7 @@ namespace Logistik.Lagers;
 
 public class LagerVerwaltung
 {
-    private Lager lager = new Lager();
+    public Lager lager = new Lager();
 
     public void WareEinlagern(WareAllgemein w, string menge)
     {
@@ -16,7 +16,7 @@ public class LagerVerwaltung
             lager.lagerAuslastung.Bestand += Convert.ToInt32(menge);
             lager.lagerWare.Add(w);
 
-            System.Console.WriteLine($"{w.Menge}x {w.Name} wurden auf den Lagerplatz: {lager.lagerPlatzBananen} eingelagert.");
+            System.Console.WriteLine($"{w.Menge}x {w.Name} wurden auf den Lagerplatz: {lager.lagerPlatzBananen.Name} eingelagert.");
         }
     }
 }

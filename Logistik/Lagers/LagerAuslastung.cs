@@ -10,7 +10,7 @@ public class LagerAuslastung
 
     public void LagerAuslastungAnzeigen()
     {
-        System.Console.WriteLine($"Die Lagerauslastung liegt bei {LagerKapazität} %.");
+        System.Console.WriteLine($"Die Lagerauslastung liegt bei {Bestand} %.");
     }
 
     public void LagerFastVoll()

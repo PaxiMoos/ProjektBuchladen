@@ -1,15 +1,10 @@
 ﻿using Logistik;
+using Logistik.Lagers;
+using Logistik.Produkte;
 
-Lager lager = new Lager();
-Produkt banane = new Produkt("Banane", 1001, "20");
-Produkt apfel = new Produkt("Apfel", 1002, "50");
-
-lager.WareEinlagern(banane, banane.Menge);
-lager.WareEinlagern(apfel, apfel.Menge);
-
-System.Console.WriteLine("");
-lager.WarenBestandAnzeigen();
+LagerVerwaltung? lagerVerwaltung = new LagerVerwaltung();
+WareAllgemein? banane = new Banane("Banane", 1001, "30");
+lagerVerwaltung.WareEinlagern(banane, banane.Menge);
 
 System.Console.WriteLine("");
-lager.KapzitätAnzeigen();
-
+lagerVerwaltung.lager.lagerAuslastung.LagerAuslastungAnzeigen();

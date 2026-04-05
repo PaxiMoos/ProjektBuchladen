@@ -8,7 +8,7 @@ public class Lager
 {
     public List<WareAllgemein> lagerWare = new List<WareAllgemein>();
     public LagerAuslastung lagerAuslastung = new LagerAuslastung();
-    public LagerPlatz? lagerPlatzBananen { get; set; }
-    public LagerPlatz? lagerPlatzÄpfel { get; set; }    
+    public LagerPlatz? lagerPlatzBananen = new LagerPlatz("'Bananen'");
+    public LagerPlatz? lagerPlatzÄpfel = new LagerPlatz("'Äpfel'");
 }
 
