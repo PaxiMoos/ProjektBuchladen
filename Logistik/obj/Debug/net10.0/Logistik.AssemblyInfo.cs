@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Logistik")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b3f2dc8a9cac928d4c4f949f49da651f33e25e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dc5bebe364f2ff2305722f2297fded16fbadc41")]
 [assembly: System.Reflection.AssemblyProductAttribute("Logistik")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Logistik")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
