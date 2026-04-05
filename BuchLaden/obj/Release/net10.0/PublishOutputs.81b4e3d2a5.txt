@@ -1,0 +1,7 @@
+c:\Users\rader\ProjektBuchladen\BuchLaden\bin\Release\net10.0\publish\BuchLaden.exe
+c:\Users\rader\ProjektBuchladen\BuchLaden\bin\Release\net10.0\publish\BuchLaden.dll
+c:\Users\rader\ProjektBuchladen\BuchLaden\bin\Release\net10.0\publish\BuchLaden.deps.json
+c:\Users\rader\ProjektBuchladen\BuchLaden\bin\Release\net10.0\publish\BuchLaden.runtimeconfig.json
+c:\Users\rader\ProjektBuchladen\BuchLaden\bin\Release\net10.0\publish\BuchLaden.pdb
+c:\Users\rader\ProjektBuchladen\BuchLaden\bin\Release\net10.0\publish\Logistik.dll
+c:\Users\rader\ProjektBuchladen\BuchLaden\bin\Release\net10.0\publish\Logistik.pdb

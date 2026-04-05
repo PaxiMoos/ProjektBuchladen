@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuchLaden")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e9408ae927929e6b40e847b649a7d9e4f158444")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1157bd620a31a2c18913811c34cf9768b8604f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuchLaden")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuchLaden")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
