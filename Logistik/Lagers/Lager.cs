@@ -16,7 +16,7 @@ public class Lager
         
     }
 
-    public void WareEinlagern(Produkt p, int menge)
+    public void WareEinlagern(Produkt p, string menge)
     {
         p.Menge = menge;
         lagerWare.Add(p);
