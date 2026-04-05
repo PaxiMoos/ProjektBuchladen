@@ -6,6 +6,7 @@ public class LagerAuslastung
 {
     public int LagerKapazität { get; set; }
     public int Bestand { get; set; }
+    public int BestandNachWarenEingang { get; set; }
 
     public void LagerAuslastungAnzeigen()
     {

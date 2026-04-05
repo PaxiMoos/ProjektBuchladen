@@ -7,16 +7,9 @@ namespace Logistik;
 public class Lager
 {
     public List<WareAllgemein> lagerWare = new List<WareAllgemein>();
-
-    public int Kapzität { get; set; } = 100;
-    public int Bestand { get; set; } = 0;
+    private LagerAuslastung lagerAuslastung = new LagerAuslastung();
     public int BestandNachWarenEingan { get; set; } = 0;
-    LagerPlatz lagerPlatzBananen { get; set; }
-    LagerPlatz lagerPlatzÄpfel { get; set; }
-
-    public Lager()
-    {
-
-    }
+    private LagerPlatz? lagerPlatzBananen { get; set; }
+    private LagerPlatz? lagerPlatzÄpfel { get; set; }    
 }
 
