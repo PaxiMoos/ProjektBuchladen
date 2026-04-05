@@ -1,17 +1,15 @@
 ﻿using Logistik;
-using Logistik.BenutzerEingaben;
-using System;
-
-Console.Clear();
 
 Lager lager = new Lager();
-var neuesProdukt = BenutzerEingabe.ProduktAnlegen();
+Produkt banane = new Produkt("Banane", 1001, "20");
+Produkt apfel = new Produkt("Apfel", 1002, "50");
 
-string? produktName = neuesProdukt.produktName;
-string? produktMenge = neuesProdukt.produktMenge;
+lager.WareEinlagern(banane, banane.Menge);
+lager.WareEinlagern(apfel, apfel.Menge);
 
-Produkt meinProdukt = new Produkt(produktName, 1001, produktMenge);
+System.Console.WriteLine("");
+lager.WarenBestandAnzeigen();
 
-lager.WareEinlagern(meinProdukt, produktMenge);
+System.Console.WriteLine("");
+lager.KapzitätAnzeigen();
 
-Console.Read();
