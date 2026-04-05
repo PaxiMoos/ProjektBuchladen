@@ -1,0 +1,12 @@
+C:\Users\rader\ProjektBuchladen\Logistik\bin\Debug\net10.0\Logistik.deps.json
+C:\Users\rader\ProjektBuchladen\Logistik\bin\Debug\net10.0\Logistik.dll
+C:\Users\rader\ProjektBuchladen\Logistik\bin\Debug\net10.0\Logistik.pdb
+C:\Users\rader\ProjektBuchladen\Logistik\obj\Debug\net10.0\Logistik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rader\ProjektBuchladen\Logistik\obj\Debug\net10.0\Logistik.AssemblyInfoInputs.cache
+C:\Users\rader\ProjektBuchladen\Logistik\obj\Debug\net10.0\Logistik.AssemblyInfo.cs
+C:\Users\rader\ProjektBuchladen\Logistik\obj\Debug\net10.0\Logistik.csproj.CoreCompileInputs.cache
+C:\Users\rader\ProjektBuchladen\Logistik\obj\Debug\net10.0\Logistik.sourcelink.json
+C:\Users\rader\ProjektBuchladen\Logistik\obj\Debug\net10.0\Logistik.dll
+C:\Users\rader\ProjektBuchladen\Logistik\obj\Debug\net10.0\refint\Logistik.dll
+C:\Users\rader\ProjektBuchladen\Logistik\obj\Debug\net10.0\Logistik.pdb
+C:\Users\rader\ProjektBuchladen\Logistik\obj\Debug\net10.0\ref\Logistik.dll
