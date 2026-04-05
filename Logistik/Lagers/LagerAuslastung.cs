@@ -4,9 +4,9 @@ namespace Logistik.Lagers;
 
 public class LagerAuslastung
 {
-    public int LagerKapazität { get; set; }
-    public int Bestand { get; set; }
-    public int BestandNachWarenEingang { get; set; }
+    public int LagerKapazität { get; set; } = 100;
+    public int Bestand { get; set; } = 0;
+    public int BestandNachWarenEingang { get; set; } = 0;
 
     public void LagerAuslastungAnzeigen()
     {
